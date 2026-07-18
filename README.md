@@ -198,9 +198,3 @@ This repository is intended to showcase **Discord API automation techniques**, n
 
 Educational / demonstration use only. If you want to edit this, mention me in the README.
 
----
-## 🐍 Support and communication
-Feel free to dm me on these platforms:
-- [Discord](https://discord.com/users/1478453769401405544)
-- [Instagram](https://instagram.com/tomase.k_)
-
